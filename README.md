@@ -25,7 +25,7 @@ MacMutator is intended for educational, testing, and authorized security purpose
 
 ---
 
-![OVERVİEW](Overview.png)
+![OVERVİEW](https://github.com/aybiketutarr/MacMutator/blob/main/Overwiev.png)
 
 ## features
 

@@ -1,0 +1,1 @@
+# MacMutator currently has no external Python dependencies.
